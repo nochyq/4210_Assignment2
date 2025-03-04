@@ -62,9 +62,3 @@ for i in range(num_instances):
 #Print the error rate
 error_rate = num_errors / num_instances
 print(f"LOO-CV Error Rate: {error_rate}")
-
-
-
-
-
-

@@ -87,7 +87,3 @@ for ds in dataSets:
     #Print the average accuracy of this model during the 10 runs (training and test set).
     #Your output should be something like that: final accuracy when training on contact_lens_training_1.csv: 0.2
     print(f"Final accuracy when training on {ds}: {avg_accuracy:.2f}")
-
-
-
-
